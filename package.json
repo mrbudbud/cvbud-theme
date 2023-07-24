@@ -6,7 +6,7 @@
   "publisher": "cvbud",
   "repository": {
     "type": "git",
-    "url": " sample url"
+    "url": "https://github.com/mrbudbud/cvbud-theme"
   },
   "engines": {
     "vscode": "^1.80.0"
