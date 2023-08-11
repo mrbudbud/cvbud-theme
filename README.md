@@ -1,8 +1,9 @@
-# CV BUD THEME README
+# <p style="text-align: center;">CV BUD THEME</p>
 
-## Read with Markdown
+## **Read with Markdown**
 
-![alt text](logocvbud.jpeg "Logo Title Text 1")
+<img src="logocvbud.jpe" width="150" height="150"
+style="text-align: center;">
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
