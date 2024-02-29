@@ -298,7 +298,7 @@
         "entity.name.type.module.js"
       ],
       "settings": {
-        "foreground": "#000000"
+        "foreground": "#fa1212"
       }
     },
     {
@@ -361,7 +361,7 @@
         "markup.deleted.git_gutter"
       ],
       "settings": {
-        "foreground": "#74209C"
+        "foreground": "#f398e6"
       }
     },
     {
@@ -554,7 +554,7 @@
         "meta.object-literal.key"
       ],
       "settings": {
-        "foreground": "#1f192d"
+        "foreground": "#228ce2"
       }
     },
     {
